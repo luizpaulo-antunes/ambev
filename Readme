@@ -17,7 +17,7 @@ O Cypress é uma ferramenta de teste de ponta a ponta que facilita a escrita e e
 
 ## Instalação
 
-1. Clone o repositório: https://github.com/luizpaulo-antunes/cypress
+1. Clone o repositório: https://github.com/luizpaulo-antunes/ambev
 2. Instale as dependências: `npm install`
 
 ## Execução dos Testes
